@@ -1,7 +1,7 @@
 # Sales-Report-Dashboard
 This repository contains an Excel-based sales dashboard that provides insights into the sales performance for the year 2022. The dashboard includes key metrics such as revenue, total orders, profit, and average cost. Additionally, it features visualizations representing revenue distribution by product, order counts, and revenue segmentation.
 
-![Long assignment - Excel 2_24_2025 1_46_48 PM](https://github.com/user-attachments/assets/fa5aa622-ced3-4801-a464-01436de9ca2b)
+![Long assignment - Excel 2_24_2025 1_46_48 PM](https://github.com/user-attachments/assets/4203c1e2-9cb6-4b92-9937-ce09ef8950b4)
 
 # Sales Report 2022 - Dashboard
 
